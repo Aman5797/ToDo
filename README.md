@@ -17,16 +17,6 @@ It is a simple yet solid application developed using flutter to manage your dayi
 I'm a flutter developer. Currently working as Software Engineer at Appinventiv. B.Tech graduated from Integral University, Lucknow.
 
   
-## Demo
-
-Insert gif or link to demo
-
-  
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
-  
 ## 🔗 Contact
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-ansari-1420101b2/)
