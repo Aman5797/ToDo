@@ -1,16 +1,35 @@
-# task_manager
 
-A new Flutter project.
+# TODO App
 
-## Getting Started
+It is a simple yet solid application developed using flutter to manage your dayily tasks.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![App Screenshot](https://raw.githubusercontent.com/Aman5797/ToDo/master/screenShots/Screenshot_20211016_001257.jpg)
+![App Screenshot](https://raw.githubusercontent.com/Aman5797/ToDo/master/screenShots/Screenshot_20211016_001304.jpg)
+![App Screenshot](https://raw.githubusercontent.com/Aman5797/ToDo/master/screenShots/Screenshot_20211016_001334.jpg)
+![App Screenshot](https://raw.githubusercontent.com/Aman5797/ToDo/master/screenShots/Screenshot_20211016_001353.jpg)
+![App Screenshot](https://raw.githubusercontent.com/Aman5797/ToDo/master/screenShots/Screenshot_20211016_001359.jpg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  
+## 🚀 About Me
+I'm a flutter developer. Currently working as Software Engineer at Appinventiv. B.Tech graduated from Integral University, Lucknow.
+
+  
+## Demo
+
+Insert gif or link to demo
+
+  
+## Documentation
+
+[Documentation](https://linktodocumentation)
+
+  
+## 🔗 Contact
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-ansari-1420101b2/)
+
+  
+
